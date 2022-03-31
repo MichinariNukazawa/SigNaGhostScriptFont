@@ -18,7 +18,7 @@ BSD 2-Clause License.
 [project daisy bell][daisy_bell_pixiv_booth] / [Michinari.Nukazawa][twitter]  
 ([mailto])
 
-[ghpages_index_SigNaGhostScripter]: http://michinarinukazawa.github.io/SigNaGhostScripterFont/html/
+[ghpages_index_SigNaGhostScripter]: http://michinarinukazawa.github.io/SigNaGhostScripterFont/html/index.html
 [blog_article]: http://blog.michinari-nukazawa.com/
 [twitter]: http://blog.michinari-nukazawa.com/
 [mailto]: mailto:michinari.nukazawa@gmail.com
