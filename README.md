@@ -5,8 +5,7 @@ SigNaGhostScripter (release: April/01)
 The SigNaGhostScripter is a joke font.  
 Please take a look sample web site.  
 And jump to link(readable pages.)  
-Japanese:[ToufFont][ghpages_index_SigNaGhostScripter]  
-English:[SigNaGhostScripter][ghpages_index_SigNaGhostScripter_en_US]  
+Japanese:[SigNaGhostScripterFont][ghpages_index_SigNaGhostScripter]  
 
 ## License
 BSD 2-Clause License.  
@@ -20,7 +19,6 @@ BSD 2-Clause License.
 ([mailto])
 
 [ghpages_index_SigNaGhostScripter]: http://michinarinukazawa.github.io/SigNaGhostScripter/html/
-[ghpages_index_SigNaGhostScripter_en_US]: http://michinarinukazawa.github.io/SigNaGhostScripter/html/index_en_US.html
 [blog_article]: http://blog.michinari-nukazawa.com/
 [twitter]: http://blog.michinari-nukazawa.com/
 [mailto]: mailto:michinari.nukazawa@gmail.com
